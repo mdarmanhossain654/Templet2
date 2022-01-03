@@ -1,0 +1,169 @@
+*{margin: 0; padding: 0}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+.full_wrap{
+    width: 100;
+}
+.wrap{
+    width: 1280px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.top {
+    background: white;
+    /* width: 1280px; */
+    display: block;
+    height: 50px;
+    margin-top: 75px;
+    box-shadow: 1px 6px 5px -2px #e6e6e6;
+}
+.logo h2{
+    float: left;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    margin-left: 35px;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 20px;
+    color: #5d5959;
+    
+}
+.nav{
+    float: right;
+   
+}
+.nav ul{
+    display: block;
+    margin-top: 20px;
+    margin-right: 25px;
+    
+}
+.nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 10px;
+    
+
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 8px 5px;
+    color: #000;
+    color: #5d5959;
+    
+}
+
+.section{ 
+       margin-bottom: 60px;
+}
+.section img {
+    margin: 0 auto;
+    display: block;
+}
+.main{
+    width: 830px;
+    height: 550px;
+    margin: 0 auto;
+    border-bottom: 2px solid #EFEFEF;
+    margin-bottom: 65px;
+}
+.aside{
+    width: 400px;
+    float: left;
+    display: block;
+    margin-right: 30px;
+}
+.aside img{
+    width: 400px;
+}
+.article{
+     width: 400px;
+    float: left;
+    display: block;
+}
+.article h2{
+    text-align: center;
+    padding: 18px;
+}
+.article h4{
+    text-align: center;
+    padding: 10px;
+    font-weight: 500;
+}
+.article p{
+    font-weight: 300;
+    text-align: justify;
+    color: black;
+}
+span {
+    color: black;
+        background: #efefef;
+    padding: 2px;
+    margin: 5px;
+}
+p.paragraph {
+    color: #94959a;
+}
+
+.menu{
+    width: 830px;
+    height: 650px;
+    margin: 0 auto;
+    border-bottom: 2px solid #EFEFEF;
+    margin-bottom: 65px;
+}
+.left{
+    width: 400px;
+    float: left;
+    display: block;
+    margin-bottom: 80px;
+}
+.left h2{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+}
+.left h3{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.left p{
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #b5b5b5;
+    
+}
+.right{
+    width: 400px;
+    float: left;
+    display: block;
+}
+
+.right img{
+    width: 400px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
